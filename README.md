@@ -9,4 +9,4 @@ A Casino type game where you have to roll the dice and you will get a random num
 3. #15132F <img src="assets/color15132f.png" width="40">
 
 ## For reference see the image:
- <img src="assets/pig.png" width="600">
+ <img src="assets/pig.png" width="1000">
